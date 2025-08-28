@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Developer Portfolio" }],
   openGraph: {
-    title: "Portfolio | React & Next.js Developer",
+    title: "React & Next.js Developer",
     description:
       "Professional portfolio showcasing expertise in React, Next.js, TypeScript, and modern web development technologies.",
     type: "website",
