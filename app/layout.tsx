@@ -5,7 +5,7 @@ import { GeistMono } from "geist/font/mono";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Portfolio | React & Next.js Developer",
+  title: "React & Next.js Developer",
   description:
     "Professional portfolio showcasing expertise in React, Next.js, TypeScript, and modern web development technologies.",
   generator: "v0.app",
